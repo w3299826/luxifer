@@ -1,4 +1,4 @@
-FROM centos:jdk8
+FROM localhost:5000/centos:jdk8
 
 EXPOSE 8761
 
