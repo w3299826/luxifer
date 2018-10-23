@@ -1,4 +1,4 @@
-FROM centos:7/jdk:8
+FROM centos:jdk8
 
 EXPOSE 8761
 
